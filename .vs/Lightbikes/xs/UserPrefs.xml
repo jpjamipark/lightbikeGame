@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{190439F8-11F8-B7C2-3640-E6B8EF3CDA99}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Move.cs" Line="106" Column="13" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="72" Column="9" />
+      <File FileName="Assets/Scripts/PauseScreen.cs" Line="39" Column="6" />
+      <File FileName="Assets/Scripts/CanvasFader.cs" Line="12" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

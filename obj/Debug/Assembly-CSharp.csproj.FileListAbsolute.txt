@@ -1,0 +1,2 @@
+/Users/JPark1/Documents/Dev/2018-19/Lightbikes/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/JPark1/Documents/Dev/2018-19/Lightbikes/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
